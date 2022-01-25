@@ -554,3 +554,160 @@ opacity:0.7;
 .text-lf-text{
     width: 50%;
 }
+.Premium-title{
+    text-align: center;
+    align-items: center;
+}
+.Premium-title-bold{
+    font-size: 3rem;
+    font-weight: bold;
+    padding-top: 2rem;
+    margin-bottom: 1rem;
+    color: rgb(252, 252, 252);
+}
+.Premium-title-nomal{
+    margin-bottom: 1rem;
+    color: rgb(252, 252, 252);
+}
+
+.FREE-text{
+    font-weight: bold;
+}
+.price-text{
+    font-size: 3rem;
+    font-weight: bold;
+}
+.GETPLAN-btn{
+    width: 80%;
+    height: 60px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    background-color: rgb(253, 173, 0);
+    border-radius: 35px;
+}
+.premium-card p{
+    line-height: 2rem;
+}
+.hr-text{
+    border: solid 1px rgb(5, 5, 5);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.premium-card{
+    
+    width: 23%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    text-align: center;
+    padding: 2rem;
+    margin-bottom: 3rem;
+}
+.premium-card-area{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.Premium-pic{
+    background-image: url("/img/miguel-valencia-8iftpdXKA48-unsplash.jpg");
+    background-size: cover;
+    background-position: center 35%;
+    background-repeat: no-repeat;
+}
+.artist-title{
+    width: 45%;
+    padding: 2rem;
+    text-align: center;
+
+}
+.artist-title-nomal{
+    line-height: 1.5rem;
+}
+.artist-title-bold{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+.READMORE-btn{
+    width: 35%;
+    height: 50px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    background-color: rgb(253, 173, 0);
+    border-radius: 35px;
+}
+.artist{
+    display: flex;
+}
+.artist-section{
+    background-color: rgb(255, 255, 255);
+}
+.Call-section-area{
+    display: flex;
+   
+}
+.call-us{
+    width: 40%;
+    padding-top: 5rem;
+    padding-bottom: 15rem;
+    padding-left: 3rem;
+}
+.call-us-bold{
+    font-weight: bold;
+    font-size: 2rem;
+    padding-bottom: 1.5rem;
+    color: rgb(255, 255, 255);
+}
+.call-us-num{
+    font-size: 1rem;
+    padding-bottom: 1.5rem;
+    color: rgb(255, 255, 255);
+}
+.Call-section{
+    background-image: url("/img/tezos-FRkuSI_dtmM-unsplash.jpg");
+    background-size: cover;
+    background-position: center 35%;
+    background-repeat: no-repeat;
+}
+.input-info input[type="text"]{
+    width: 100%;
+    padding: 0.8rem;
+    border-radius: 2px;
+    margin-bottom:1.6rem;
+    background-color: rgb(255, 255, 255);
+}
+.input-info{
+    width: 70%;
+    padding: 2rem;
+}
+.input-info-all{
+    display: flex;
+}
+
+.input-info-all .input-info-left{
+    margin-right:1.6rem;
+}
+.input-info-all > div{
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.checkbox-div{
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.icons-sub{
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+}
+.icons-sub{
+    padding-top: 1rem;
+}
+.textarea-div{
+    padding-top: 1.5rem;
+}
