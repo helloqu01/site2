@@ -22,7 +22,7 @@ body{
     
 }
 .main{
-    background-image: url("./img/workshop-2Kqhw3qST0o-unsplash.jpg");
+    background-image: url("/img/workshop-2Kqhw3qST0o-unsplash.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
@@ -179,7 +179,7 @@ header{
     flex: 0 0 50%;
     margin-right: 2rem;
     height: 650px;
-    background-image: url("./img/cate-brodersen-Q2i5fUgSu88-unsplash.jpg");
+    background-image: url("/img/cate-brodersen-Q2i5fUgSu88-unsplash.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
@@ -241,7 +241,7 @@ header{
     
     width: 50%;
     height: 300px;
-    background-image: url("./img/cate-brodersen-Q2i5fUgSu88-unsplash.jpg");
+    background-image: url("/img/cate-brodersen-Q2i5fUgSu88-unsplash.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
@@ -251,7 +251,7 @@ header{
     float: left;
     width: 50%;
     height: 300px;
-    background-image: url("./img/cate-brodersen-Q2i5fUgSu88-unsplash.jpg");
+    background-image: url("/img/cate-brodersen-Q2i5fUgSu88-unsplash.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
@@ -319,7 +319,7 @@ footer{
 .card-sec{
     width: 100%;
     height: 100%;
-    background-image: url("./img/xps-ocAuPlfZXEc-unsplash.jpg");
+    background-image: url("/img/xps-ocAuPlfZXEc-unsplash.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
@@ -351,7 +351,7 @@ footer{
 .pic-face{
     width: 250px;
     height: 250px;
-    background-image: url("./img/christopher-campbell-rDEOVtE7vOs-unsplash.jpg");
+    background-image: url("/img/christopher-campbell-rDEOVtE7vOs-unsplash.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
@@ -368,7 +368,7 @@ footer{
 .pic1{
     width: 35%;
     height: 500px;
-    background-image: url("./img/1.jpg");
+    background-image: url("/img/1.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
@@ -395,7 +395,7 @@ opacity:0.7;
 .pic2{
     width: 35%;
     height: 500px;
-    background-image: url("./img/2.jpg");
+    background-image: url("/img/2.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
@@ -421,7 +421,7 @@ opacity:0.7;
 .pic3{
     width: 35%;
     height: 500px;
-    background-image: url("./img/3.jpg");
+    background-image: url("/img/3.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
@@ -446,7 +446,7 @@ opacity:0.7;
 .pic4{
     width: 35%;
     height: 500px;
-    background-image: url("./img/4.jpg");
+    background-image: url("/img/4.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
@@ -454,7 +454,7 @@ opacity:0.7;
 .pic5{
     width: 35%;
     height: 500px;
-    background-image: url("./img/5.jpg");
+    background-image: url("/img/5.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
@@ -462,7 +462,7 @@ opacity:0.7;
 .pic6{
     width: 35%;
     height: 500px;
-    background-image: url("./img/6.jpg");
+    background-image: url("/img/6.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
@@ -522,7 +522,7 @@ opacity:0.7;
 .text-lf-pic{
     width: 50%;
     height: 200px;
-    background-image: url("./img/6.jpg");
+    background-image: url("/img/6.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
@@ -530,7 +530,7 @@ opacity:0.7;
 .text-lf-pic2{
     width: 50%;
     height: 200px;
-    background-image: url("./img/2.jpg");
+    background-image: url("/img/2.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
@@ -609,7 +609,7 @@ opacity:0.7;
     
 }
 .Premium-pic{
-    background-image: url("./img/miguel-valencia-8iftpdXKA48-unsplash.jpg");
+    background-image: url("/img/miguel-valencia-8iftpdXKA48-unsplash.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
@@ -666,7 +666,7 @@ opacity:0.7;
     color: rgb(255, 255, 255);
 }
 .Call-section{
-    background-image: url("./img/tezos-FRkuSI_dtmM-unsplash.jpg");
+    background-image: url("img/tezos-FRkuSI_dtmM-unsplash.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
