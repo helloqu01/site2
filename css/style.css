@@ -609,7 +609,7 @@ opacity:0.7;
     
 }
 .Premium-pic{
-    background-image: url("img/miguel-valencia-8iftpdXKA48-unsplash.jpg");
+    background-image: url("/img/miguel-valencia-8iftpdXKA48-unsplash.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
@@ -666,7 +666,7 @@ opacity:0.7;
     color: rgb(255, 255, 255);
 }
 .Call-section{
-    background-image: url("img/tezos-FRkuSI_dtmM-unsplash.jpg");
+    background-image: url("./img/tezos-FRkuSI_dtmM-unsplash.jpg");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;
